@@ -28,17 +28,22 @@ export default function Home() {
           What is a Hacker House?
         </Heading>
         <Text sx={{ maxWidth: `50ch` }}>
-          iykyk... if you don't, employ google. This site does not intend to be
-          a primary resource for sociologists studying nerds.
+          iykyk... if you don&apos;t, employ google. This site does not intend
+          to be a primary resource for sociologists studying nerds.
         </Text>
         <Heading as="h3" sx={{ fontFamily: `'Source Serif Pro', serif` }}>
           What is the plan here?
         </Heading>
         <Text sx={{ maxWidth: `50ch` }}>
-          Let's socialize some square footage. If you also believe Vancouver
-          needs a hacker house (or 2 or n+1 and so on), or{" "}
+          Let&apos;s socialize some square footage. If you also believe
+          Vancouver needs a hacker house (or 2 or n+1 and so on), or{" "}
           <strong>especially</strong> if you would like to commit to living in a
           hacker house as your primary abode, you are in the right place.
+        </Text>
+        <Text sx={{ maxWidth: `50ch` }}>
+          More specifically, the plan is to collect a significant number of
+          individuals committed to deploying a hacker house, and then
+          renting/buying a place for that express purpose.
         </Text>
         <Text sx={{ maxWidth: `50ch` }}>Most relevant for:</Text>
         <UnorderedList sx={{ maxWidth: `50ch` }}>
@@ -52,7 +57,7 @@ export default function Home() {
           </ListItem>
           <ListItem>
             People who live outside of Vancouver and want to live there but
-            can't figure it out due to all the damn rent
+            can&apos;t figure it out due to all the damn rent
           </ListItem>
           <ListItem>STEM students</ListItem>
           <ListItem>
@@ -78,13 +83,13 @@ export default function Home() {
         </Heading>
         <Text sx={{ maxWidth: `50ch` }}>
           Putting a bunch of nerds in a room together does a little thing called
-          synergy... obviously you've never heard of synergy, and who could
-          blame you? You're looking at a site about DIY socialized housing in a
+          synergy... obviously you&apos;ve never heard of synergy, and who could
+          blame you? You&apos;re looking at a site about DIY socialized housing in a
           Canadian 2 road town on the other side of a continent from Ivy League
           Business Schools.
         </Text>
         <Text sx={{ maxWidth: `50ch` }}>
-          Anyways, synergy. That's when you get more productivity out of a
+          Anyways, synergy. That&apos;s when you get more productivity out of a
           system of objects working together than you would out of those parts
           by themselves. The value of combining individuals is greater than the
           sum of individuals.
