@@ -127,7 +127,7 @@ export default function Home() {
         </Heading>
         <Text>
           Join the{" "}
-          <a href="" style={{ textDecoration: `underline` }}>
+          <a href="https://discord.gg/tRqMgXm6" style={{ textDecoration: `underline` }}>
             discord.
           </a>
         </Text>
